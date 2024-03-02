@@ -4526,3 +4526,4 @@
 ('ward williams', '6/26/1923', 'https://cdn.nba.com/headshots/nba/latest/1040x760/78573.png'),
 ('hank zeller', '7/10/1918', 'https://cdn.nba.com/headshots/nba/latest/1040x760/78642.png'),
 ('matt zunic', '12/19/1919', 'https://cdn.nba.com/headshots/nba/latest/1040x760/78650.png'),
+('default', 'none', 'https://cdn.nba.com/headshots/nba/latest/1040x760/fallback.png');
